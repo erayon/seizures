@@ -18,6 +18,11 @@ between electrodes are either 10% or 20% of front-back or right-left distance of
 
 
 # Dataset Details
+This database, collected at the Children’s Hospital Boston, consists of EEG recordings from pediatric
+subjects with intractable seizures. Subjects were monitored for up to several days following withdrawal
+of anti-seizure medication in order to characterize their seizures and assess their candidacy for surgical
+intervention.
+
 The sampling rate of the data was 173.61 Hz. The time series have the spectral bandwidth of the acquisition system, which is 0.5 Hz to 85 Hz. The dataset consists of five sets: Set B, Set C and Set E. 
 1. Set B refers to healthy data
 2. Set C refers to Inter-ictal (transition between healthy to seizure) data 
