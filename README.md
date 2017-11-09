@@ -1,5 +1,6 @@
 # seizures
-Detection of Epileptic Seizure Event and Onset Using EEG 
+Detection of Epileptic Seizure Event and Onset Using EEG using Machine Learning. Its a classification problem, first need to extract
+features from the signal and add label onto them, based on that classification takes place.
 
 # Dataset Details
 The sampling rate of the data was 173.61 Hz. The time series have the spectral bandwidth of the acquisition system, which is 0.5 Hz to 85 Hz. The dataset consists of five sets: Set B, Set C and Set E. 
@@ -34,4 +35,11 @@ Follow the [instructions for cloning](https://pip.pypa.io/en/latest/reference/pi
 
 ```
 
+# Feature Extraction 
+
+# Problem Statement 
+this is three classification proble
+1. class1: healthy    ( 1 )
+2. class2: transition ( 0 )
+3. class3: seizures   (-1 )
 
