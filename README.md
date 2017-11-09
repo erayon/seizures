@@ -55,8 +55,6 @@ Follow the [instructions for cloning](https://pip.pypa.io/en/latest/reference/pi
 
 ```
 
-# Feature Extraction 
-
 # Problem Statement 
 this is three classification proble
 1. class1: healthy    ( 1 )
