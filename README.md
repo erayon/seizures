@@ -17,3 +17,21 @@ the raw data from one of the channels for the 23.59 sec
 ```
 
 ![Alt text](fig1.png?raw=true "Visualization")
+
+
+# Prerequisition
+Python module with many functions for time series analysis, including brain physiological signals
+
+```
+1. Clone the repo via HTTPS:
+$ git clone https://github.com/forrestbao/pyeeg.git
+$ cd pyeeg
+$ python setup.py install
+$ python setup.py install --user
+
+2. pip supports installing from a GitHub repo
+Follow the [instructions for cloning](https://pip.pypa.io/en/latest/reference/pip_install.html#git)
+
+```
+
+
